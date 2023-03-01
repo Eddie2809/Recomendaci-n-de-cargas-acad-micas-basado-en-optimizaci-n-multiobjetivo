@@ -1,0 +1,119 @@
+Ciclo,Trayectoria,Tipo,Clave,Nombre,Maestro,Lunes,Martes,Miercoles,Jueves,Viernes,Sabado
+1,0,BAS,DP0193,Taller de redacción profesional,Alvarado Martínez / María Del Carmen,-,-,17:00-18:00,-,16:00-18:00,-
+1,0,BAS,DP0191,Taller de interacción grupal y competencias comunicativas,Diaz Barriga Cuevas / Claudia,-,-,-,15:00-17:00,17:00-18:00,-
+1,0,BAS,DP0191,Taller de interacción grupal y competencias comunicativas,Diaz Barriga Cuevas / Claudia,18:00-20:00,-,-,17:00-18:00,-,-
+1,0,BAS,DP0193,Taller de redacción profesional,Parra Dorantes / Roberto,-,-,18:00-20:00,-,17:00-18:00,-
+1,0,BAS,DP0194,Desarrollo de habilidades del pensamiento,Mendoza Luna / José Arturo,-,-,19:00-20:00,-,20:00-22:00,-
+1,0,BAS,ID0102,Física clásica,Kauil Castillo / Gener Antonio,-,15:00-17:00,-,-,15:00-17:00,-
+1,0,BAS,II0209,Cálculo integral,Canul Chalé / Juan Diego,17:00-19:00,-,16:00-17:00,-,-,-
+1,0,BAS,IT0104,Matemáticas discretas,Naredo García / Enrique,-,-,15:00-17:00,-,14:00-15:00,-
+1,0,BAS,DP0193,Taller de redacción profesional,Parra Dorantes / Roberto,-,-,-,17:00-18:00,18:00-20:00,-
+1,0,BAS,DP0193,Taller de redacción profesional,Caamal Lora / Gabriel Adoni,-,20:00-21:00,-,-,20:00-22:00,-
+1,0,BAS,DP0194,Desarrollo de habilidades del pensamiento,Maich Sangiacomo / Karinna,-,20:00-22:00,-,20:00-21:00,-,-
+1,0,BAS,DP0194,Desarrollo de habilidades del pensamiento,Aguilar Hernández / Miguel Ángel,-,19:00-20:00,-,-,18:00-20:00,-
+1,0,BAS,DP0191,Taller de interacción grupal y competencias comunicativas,Maldonado Santiago / David,-,-,19:00-20:00,-,16:00-18:00,-
+1,0,BAS,DP0193,Taller de redacción profesional,Caamal Lora / Gabriel Adoni,20:00-22:00,-,20:00-21:00,-,-,-
+1,0,BAS,II0106,Cálculo diferencial,Zue / Juan Carlos,18:00-20:00,-,20:00-22:00,-,-,-
+1,0,BAS,II0322,Álgebra lineal,Zavala Amezcua / Eva Mirelle,15:00-17:00,-,-,16:00-17:00,-,-
+1,0,BAS,II0209,Cálculo integral,Zavala Amezcua / Eva Mirelle,9:00-11:00,-,-,9:00-10:00,-,-
+1,0,BAS,DP0191,Taller de interacción grupal y competencias comunicativas,Trujillo Ramírez / Jorge Antonio,-,20:00-21:00,-,20:00-22:00,-,-
+1,0,BAS,DP0194,Desarrollo de habilidades del pensamiento,López Ávila / Nicté,19:00-21:00,-,-,-,20:00-21:00,-
+1,0,BAS,DP0191,Taller de interacción grupal y competencias comunicativas,Maldonado Santiago / David,-,16:00-18:00,-,17:00-18:00,-,-
+1,0,BAS,DP0191,Taller de interacción grupal y competencias comunicativas,Maldonado Santiago / David,-,-,18:00-19:00,-,18:00-20:00,-
+1,0,BAS,DP0194,Desarrollo de habilidades del pensamiento,Cantero Flores / Víctor,19:00-20:00,-,-,18:00-20:00,-,-
+1,0,BAS,DP0194,Desarrollo de habilidades del pensamiento,Aguilar Hernández / Miguel Ángel,-,16:00-18:00,-,16:00-17:00,-,-
+1,0,BAS,DP0194,Desarrollo de habilidades del pensamiento,Aguilar Hernández / Miguel Ángel,-,18:00-19:00,-,19:00-21:00,-,-
+1,0,BAS,DP0194,Desarrollo de habilidades del pensamiento,Peralta Del Riego / Víctor Manuel,-,-,12:00-14:00,-,13:00-14:00,-
+1,0,BAS,II0106,Cálculo diferencial,Can Tun / Miguel Alberto,7:00-9:00,-,7:00-9:00,-,-,-
+1,0,BAS,DP0193,Taller de redacción profesional,Parra Dorantes / Roberto,-,-,9:00-11:00,-,9:00-10:00,-
+1,0,BAS,DP0193,Taller de redacción profesional,Vargas Hernández / Argentina,7:00-9:00,-,-,7:00-8:00,-,-
+1,0,BAS,II0106,Cálculo diferencial,Can Tun / Miguel Alberto,-,7:00-9:00,-,-,7:00-9:00,-
+1,0,BAS,IT0161,Sistemas operativos POSIX,Báez López / Yarely,9:00-11:00,-,-,13:00-14:00,-,-
+1,0,BAS,IT0161,Sistemas operativos POSIX,Báez López / Yarely,11:00-13:00,-,11:00-12:00,-,-,-
+1,0,ELIB,ID0161,Recursos de comunicación para la era digital,Zavala López / Erika Erendira,-,-,9:00-11:00,13:00-14:00,-,-
+2,1,BAS,DP0396,Identidad y cultura,Alavez San Pedro / Minerva,-,9:00-11:00,-,8:00-9:00,-,-
+2,1,BAS,ID0204,Bases de Datos,Lara Peraza / Wilberth Eduardo,9:00-11:00,-,9:00-11:00,-,-,-
+2,1,BAS,ID0205,Geometría computacional,Naredo García / Enrique,-,-,-,9:00-11:00,10:00-11:00,-
+2,1,BAS,ID0206,Interconectividad en redes,Sansores Pérez / Candelaria Elizabeth,11:00-13:00,-,11:00-13:00,-,-,-
+2,1,ELIB,ID0263,Sistemas de planificación de recursos empresariales,Zavala López / Erika Erendira,13:00-14:00,-,"
+13:00-15:00",-,-,-
+2,1,ELIB,ID0265,Programación web,Morales Saavedra / Emmanuel,13:00-14:00,-,13:00-15:00,-,-,-
+2,1,BAS,II0320,Ecuaciones diferenciales,Mejenes Sánchez / Omar,-,7:00-9:00,-,7:00-8:00,-,-
+2,1,BAS,IL0204,Estadística analítica,Cruz Pichardo / Felisa,7:00-9:00,-,7:00-9:00,-,-,-
+2,2,BAS,DP0396,Identidad y cultura,Alavez San Pedro / Minerva,-,16:00-18:00,-,-,16:00-17:00,-
+2,2,BAS,ID0204,Bases de Datos,Báez López / Yarely,18:00-20:00,-,17:00-19:00,-,-,-
+2,2,BAS,ID0205,Geometría computacional,Naredo García / Enrique,-,20:00-21:00,-,-,18:00-20:00,-
+2,2,BAS,ID0206,Interconectividad en redes,Sansores Pérez / Candelaria Elizabeth,-,18:00-20:00,-,16:00-18:00,-,-
+2,2,ELIB,ID0263,Sistemas de planificación de recursos empresariales,Báez López / Yarely,16:00-18:00,-,16:00-17:00,-,-,-
+2,2,BAS,II0320,Ecuaciones diferenciales,Canul Chalé / Juan Diego,-,-,19:00-20:00,-,14:00-16:00,-
+2,2,BAS,IL0204,Estadística analítica,Cruz Pichardo / Felisa,20:00-22:00,-,-,18:00-20:00,-,-
+2,0,BAS,DP0295,Taller de formación en responsabilidad social y ambiental,Cucurachi Durán / Sergio Jesús,-,-,17:00-18:00,-,16:00-18:00,-
+2,0,BAS,DP0295,Taller de formación en responsabilidad social y ambiental,Cerón Benitez / Mitzi Anayancin,-,-,19:00-21:00,-,20:00-21:00,-
+2,0,BAS,ID0205,Geometría computacional,Naredo García / Enrique,-,14:00-16:00,-,14:00-15:00,-,-
+2,0,BAS,PID0201,Prácticas Profesionales I,García Fernández / Alejandro,-,-,-,-,-,-
+2,0,BAS,DP0295,Taller de formación en responsabilidad social y ambiental,Cucurachi Durán / Sergio Jesús,-,-,18:00-20:00,-,18:00-19:00,-
+2,0,BAS,DP0295,Taller de formación en responsabilidad social y ambiental,Lugo Hernández / Lizbeth,-,-,17:00-19:00,17:00-18:00,-,-
+2,0,BAS,DP0396,Identidad y cultura,Cucurachi Durán / Sergio Jesús,-,20:00-21:00,-,-,20:00-22:00,-
+2,0,BAS,II0215,Electricidad y magnetismo,Casas De La Cruz / Rosa Guadalupe,11:00-13:00,-,-,13:00-15:00,-,-
+2,0,BAS,II0215,Electricidad y magnetismo,Casas De La Cruz / Rosa Guadalupe,14:00-16:00,-,-,16:00-18:00,-,-
+2,0,BAS,IL0204,Estadística analítica,Virgen Suárez / Jarmen Said,-,7:00-9:00,-,7:00-9:00,-,-
+2,0,BAS,IL0204,Estadística analítica,Ortega Espinosa / Viridiana Alhelí,18:00-20:00,-,-,18:00-20:00,-,-
+2,0,ELIB,IL3422,Liderazgo y equipos de trabajo,García Rivera / Miriam Angelica,-,-,15:00-16:00,-,14:00-16:00,-
+2,0,BAS,DP0295,Taller de formación en responsabilidad social y ambiental,Blanco Valdés / Santiago,-,13:00-15:00,-,13:00-14:00,-,-
+2,0,BAS,II0320,Ecuaciones diferenciales,Mejenes Sánchez / Omar,7:00-10:00,-,-,-,-,-
+2,0,ELIB,II0422,Taller de emprendedores,Contreras Macossay / Bani Obed,-,9:00-11:00,11:00-12:00,-,-,-
+2,0,BAS,DP0295,Taller de formación en responsabilidad social y ambiental,Lugo Hernández / Lizbeth,-,-,19:00-21:00,-,20:00-21:00,-
+2,0,BAS,DP0295,Taller de formación en responsabilidad social y ambiental,Muñoz Dzib / Melchor Ernesto,-,18:00-19:00,-,-,18:00-20:00,-
+2,0,BAS,DP0396,Identidad y cultura,Alavez San Pedro / Minerva,-,14:00-16:00,-,15:00-16:00,-,-
+2,0,ELIB,II0422,Taller de emprendedores,Arreola Mejía / Sonia Amalia,-,13:00-15:00,-,13:00-14:00,-,-
+3,1,BAS,DP0498,Problemas de México,Cervera León / José Samuel,-,9:00-11:00,-,-,10:00-11:00,-
+3,1,BAS,ID0307,Ingeniería de software,Morales Saavedra / Emmanuel,11:00-13:00,-,12:00-13:00,-,-,-
+3,1,BAS,ID0310,Minería de datos,Gómez García / Hector Fernando,-,-,8:00-10:00,-,8:00-10:00,-
+3,1,Innovación en TIC,ID3416,Diseño multimedia,Landeros Alvarado / Aurea,-,8:00-9:00,-,9:00-11:00,-,-
+3,1,ELIB,ID3468,Herramientas para la gestión de grandes volúmenes de datos,Mendiola Fuentes / Jessica Carmin,9:00-11:00,-,-,13:00-14:00,-,-
+3,1,ELIB,II0422,Taller de emprendedores,Treviño Arzápalo / Ángel Alejandro,7:00-9:00,-,7:00-8:00,-,-,-
+3,1,BAS,IT0263,Electrónica analógica,Casas De La Cruz / Rosa Guadalupe,13:00-14:00,-,10:00-12:00,-,-,-
+3,2,BAS,DP0498,Problemas de México,Manzo de León / Leonela Paola,20:00-22:00,-,20:00-21:00,-,-,-
+3,2,BAS,ID0307,Ingeniería de software,Aguas García / Nancy,-,16:00-18:00,-,16:00-17:00,-,-
+3,2,BAS,ID0310,Minería de datos,Gómez García / Hector Fernando,-,-,16:00-18:00,-,16:00-18:00,-
+3,2,Inteligencia Organizacional y de Negocios,ID3422,Negocios digitales,Rodríguez Santiago / Juan Manuel,-,18:00-20:00,-,18:00-19:00,-,-
+3,2,ELIB,ID3468,Herramientas para la gestión de grandes volúmenes de datos,Mendiola Fuentes / Jessica Carmin,18:00-20:00,-,-,19:00-20:00,-,-
+3,2,ELIB,II0422,Taller de emprendedores,García Rivera / Miriam Angelica,16:00-18:00,-,-,17:00-18:00,-,-
+3,2,BAS,IT0263,Electrónica analógica,Márquez Chacón / Wilberth,-,-,18:00-20:00,-,18:00-19:00,-
+3,0,BAS,DP0497,Problemas del mundo contemporáneo,Sánchez Novelo / Mariela de Jesús,-,20:00-22:00,-,-,19:00-20:00,-
+3,0,BAS,IT0425,Introducción a la inteligencia artificial,Sansores Pérez / Candelaria Elizabeth,14:00-16:00,-,14:00-15:00,-,-,-
+3,0,BAS,PID0302,Prácticas profesionales II,García Fernández / Alejandro,-,-,-,-,-,-
+3,0,ELIB,IT0317,Diseño de interfaces humano-máquina,Morales Saavedra / Emmanuel,-,-,15:00-16:00,-,14:00-16:00,-
+3,0,BAS,DP0497,Problemas del mundo contemporáneo,Sánchez Novelo / Mariela de Jesús,20:00-22:00,-,-,17:00-18:00,-,-
+3,0,BAS,DP0396,Identidad y cultura,Alavez San Pedro / Minerva,-,-,19:00-21:00,-,19:00-20:00,-
+3,0,BAS,DP0396,Identidad y cultura,Barragan Garcia / Marco Antonio,-,14:00-16:00,-,-,17:00-18:00,-
+3,0,BAS,ID0308,Análisis de grandes volúmenes de datos,Olivares González / Cyntya,9:00-11:00,-,-,9:00-11:00,-,-
+3,0,BAS,ID0309,Aprendizaje estadístico,Arzápalo Treviño / Ángel Alejandro,-,9:00-11:00,-,7:00-8:00,-,-
+3,0,Inteligencia de Negocios,ID3424,Visualización de datos,Mendiola Fuentes / Jessica Carmin,7:00-8:00,-,-,-,7:00-9:00,-
+3,0,BAS,DP0497,Problemas del mundo contemporáneo,Sánchez Novelo / Mariela de Jesús,-,18:00-20:00,-,-,20:00-21:00,-
+3,0,BAS,DP0497,Problemas del mundo contemporáneo,Castro Gonzalez / Julieta,-,-,19:00-20:00,-,20:00-22:00,-
+3,0,ELIB,II0423,Métodos numéricos por computadora,Mejenes Sánchez / Omar,-,16:00-18:00,18:00-20:00,-,-,-
+3,0,ELIB,IL0414,Taller de argumentación y técnicas de negociación,Contreras Macossay / Bani Obed,19:00-20:00,-,20:00-22:00,-,-,-
+4,1,BAS,ID0414,Seguridad de datos,Aguilar Pérez / Jairo Cesar,-,18:00-20:00,-,18:00-20:00,-,-
+4,1,Innovación en TIC,ID3415,Cómputo ubicuo,Sansores Pérez / Candelaria Elizabeth,-,-,18:00-20:00,-,18:00-19:00,-
+4,1,Inteligencia Organizacional y de Negocios,ID3420,Analítica para la inteligencia de negocios,Gómez García / Hector Fernando,-,-,18:00-20:00,-,18:00-19:00,-
+4,1,Inteligencia de Negocios,ID3423,Sistemas de apoyo para la toma de decisiones,Mendiola Fuentes / Jessica Carmin,-,16:00-18:00,-,17:00-18:00,-,-
+4,1,BAS,IT0423,Administración de proyectos de desarrollo de software,Galvan Herrera / Maria Fernanda,19:00-21:00,-,-,20:00-21:00,-,-
+4,1,BAS,IT0427,Proyecto terminal,Aguas García / Nancy,16:00-19:00,-,-,-,-,-
+4,1,ELIB,IT3472,Principios de automatización y robótica,Landaverde Lorenzo / Pablo Jacob,-,20:00-22:00,-,21:00-22:00,-,-
+4,1,ELIB,NI3431,Marketing en los negocios electrónicos,Canche Dzul / Arely Del Socorro,21:00-22:00,-,-,-,19:00-21:00,-
+4,0,BAS,DP0498,Problemas de México,Díaz Molina / Libertad Fidelina,-,14:00-16:00,-,15:00-16:00,-,-
+4,0,BAS,DP0499,Seminario de investigación,Barragan Garcia / Marco Antonio,16:00-19:00,-,-,-,-,-
+4,0,BAS,DP0498,Problemas de México,Cervera León / José Samuel,-,-,17:00-19:00,16:00-17:00,-,-
+4,0,BAS,DP0499,Seminario de investigación,Barragan Garcia / Marco Antonio,-,20:00-22:00,-,20:00-21:00,-,-
+4,0,BAS,PID0403,Prácticas profesionales preespecialidad: Inteligencia organizacional y de negocios,García Fernández / Alejandro,-,-,-,-,-,-
+4,0,BAS,PID0404,Prácticas Profesionales preespecialidad: Innovación en TIC,García Fernández / Alejandro,-,-,-,-,-,-
+4,0,ELIB,IT0317,Diseño de interfaces humano-máquina,Morales Saavedra / Emmanuel,-,-,15:00-16:00,-,14:00-16:00,-
+4,0,BAS,DP0498,Problemas de México,Aguilar Hernández / Miguel Ángel,16:00-17:00,-,16:00-18:00,-,-,-
+4,0,BAS,DP0498,Problemas de México,Barragan Garcia / Marco Antonio,-,-,16:00-18:00,-,16:00-17:00,-
+4,0,BAS,DP0499,Seminario de investigación,Reyes Miranda / José Felipe,16:00-18:00,-,18:00-19:00,-,-,-
+4,0,BAS,IT0427,Proyecto terminal,Zavala López / Erika Erendira,16:00-19:00,-,-,-,-,-
+4,0,Inteligencia de Negocios,ID3424,Visualización de datos,Mendiola Fuentes / Jessica Carmin,7:00-8:00,-,-,-,7:00-9:00,-
+4,0,BAS,DP0498,Problemas de México,Manzo de León / Leonela Paola,18:00-20:00,-,-,-,18:00-19:00,-
+4,0,BAS,DP0499,Seminario de investigación,Reyes Miranda / José Felipe,14:00-16:00,-,14:00-15:00,-,-,-
+4,0,ELIB,IL0414,Taller de argumentación y técnicas de negociación,Contreras Macossay / Bani Obed,19:00-20:00,-,20:00-22:00,-,-,-
