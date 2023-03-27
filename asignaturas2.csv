@@ -513,95 +513,95 @@ ciclos,clave,nombre,creditos,tipo,plan,preespecialidad
 4,II0424,Simulación,6,Preespecialidad,IIP2011,
 4,II3432,Sistemas de aprovechamiento hidráulico,6,Preespecialidad,IIP2011,
 4,II3431,Tratamiento de residuos sólidos,6,Preespecialidad,IIP2011,
-1,Taller de interacción grupal y competencias comunicativas,DP0191,6,Basica,IDP2021,NA
-1,Taller de redacción profesional,DP0193,6,Basica,IDP2021,NA
-1,Desarrollo de habilidades del pensamiento,DP0194,6,Basica,IDP2021,NA
-1,"Propedéutico de habilidades básicas de lectura, estudio e investigación",DP0001,6,Basica,IDP2021,NA
-1,Propedéutico de matemáticas para ingeniería,II0002,8,Basica,IDP2021,NA
-1,Cálculo diferencial,II0106,8,Basica,IDP2021,NA
-1,Cálculo integral,ID0104,8,Basica,IDP2021,NA
-1,Algoritmos y estructuras de datos,ID0105,8,Basica,IDP2021,NA
-1,Matemáticas discretas,ID0106,8,Basica,IDP2021,NA
-1,Diseño de patrones para datos estructurados,ID0107,8,Basica,IDP2021,NA
-1,Física clásica,ID0108,6,Basica,IDP2021,NA
-1,Organización y diseño de computadoras,ID0103,8,Basica,IDP2021,NA
-1,Sistemas operativos POSIX,IT0161,6,Basica,IDP2021,NA
-2,Taller de formación en responsabilidad social y ambiental,DP0295,6,Basica,IDP2021,NA
-2,Identidad y cultura,DP0396,6,Basica,IDP2021,NA
-2,Álgebra lineal,II0322,6,Basica,IDP2021,NA
-2,Probabilidad y estadística,ID0207,8,Basica,IDP2021,NA
-2,Ecuaciones diferenciales,IA0209 ,8,Basica,IDP2021,NA
-2,Estadística analítica,IL0204,8,Basica,IDP2021,NA
-2,Técnicas algorítmicas,ID0208,6,Basica,IDP2021,NA
-2,Programación orientada a objetos,IT0210,6,Basica,IDP2021,NA
-2,Bases de datos,ID0204,8,Basica,IDP2021,NA
-2,Geometría computacional,ID0205,6,Basica,IDP2021,NA
-2,Análisis de grandes volúmenes de datos,ID0308,8,Basica,IDP2021,NA
-2,Programación web,ID0265,6,Basica,IDP2021,NA
-2,Prácticas profesionales I,PID0201,10,Basica,IDP2021,NA
-3,Problemas del mundo contemporáneo,DP0497,6,Basica,IDP2021,NA
-3,Problemas de México,DP0498,6,Basica,IDP2021,NA
-3,Introducción a la inteligencia artificial,IT0425,6,Basica,IDP2021,NA
-3,Ingeniería de software,ID0307,6,Basica,IDP2021,NA
-3,Electrónica analógica,IT0263,6,Basica,IDP2021,NA
-3,Electrónica digital,IT0208,8,Basica,IDP2021,NA
-3,Aprendizaje estadístico,ID0309,6,Basica,IDP2021,NA
-3,Minería de datos,ID0310,8,Basica,IDP2021,NA
-3,Programación de aplicaciones de red,ID3470,6,Basica,IDP2021,NA
-3,Aprendizaje profundo,ID0311,6,Basica,IDP2021,NA
-3,Prácticas profesionales II,PID0302,10,Basica,IDP2021,NA
-4,Seminario de investigación,DP0499,6,Basica,IDP2021,NA
-4,Proyecto terminal,IT0427,6,Basica,IDP2021,NA
-4,Administración de proyectos de desarrollo de software,IT0423,6,Basica,IDP2021,NA
-4,Cómputo de alto desempeño,ID0411,8,Basica,IDP2021,NA
-4,Métodos de desarrollo de software,ID0412,8,Basica,IDP2021,NA
-4,Procesamiento de datos en la nube,ID0413,6,Basica,IDP2021,NA
-4,Seguridad de datos,ID0414,8,Basica,IDP2021,NA
-4,Sistemas distribuidos,ID0415,6,Basica,IDP2021,NA
-4,Prácticas profesionales preespecialidad: Inteligencia organizacional y de negocios,PID0403,10,Basica,IDP2021,NA
-4,Prácticas Profesionales preespecialidad: Innovación en TIC,PID0404,10,Basica,IDP2021,NA
-1,Introducción a los sistemas de información,IT0264,6,Elección libre,IDP2021,NA
-1,Sistemas de planificación de recursos empresariales,ID0263,6,Elección libre,IDP2021,NA
-1,Pensamiento crítico para ingeniería,ID0160,6,Elección libre,IDP2021,NA
-1,Recursos de comunicación para la era digital,ID0161,6,Elección libre,IDP2021,NA
-2,Contabilidad y costos para ingeniería,ID0262,6,Elección libre,IDP2021,NA
-2,Innovación disruptiva,ID0264,6,Elección libre,IDP2021,NA
-2,Liderazgo y equipos de trabajo,IL3422,6,Elección libre,IDP2021,NA
-2,Planeación estratégica,NI0423,6,Elección libre,IDP2021,NA
-4,Gobierno de datos y redes sociales,ID3466,6,Elección libre,IDP2021,NA
-4,Taller de argumentación y técnicas de negociación,IL0414,6,Elección libre,IDP2021,NA
-4,Diseño de interfaces humano-máquina,IT0317,6,Elección libre,IDP2021,NA
-4,Graficación por computadora,ID3467,6,Elección libre,IDP2021,NA
-4,Herramientas para la gestión de grandes volúmenes de datos,ID3468,6,Elección libre,IDP2021,NA
-4,Métodos numéricos por computadora,II0423,8,Elección libre,IDP2021,NA
-4,Realidad virtual,ID3471,6,Elección libre,IDP2021,NA
-4,Principios de automatización y robótica,IT3472,6,Elección libre,IDP2021,NA
-4,Marketing en los negocios electrónicos,NI3431,6,Elección libre,IDP2021,NA
-4,Cómputo ubicuo,ID3415,6,Elección libre,IDP2021,NA
-4,Tópicos selectos en ingeniería de datos,ID3472,6,Elección libre,IDP2021,NA
-4,Tópicos selectos en inteligencia organizacional,ID3473,6,Elección libre,IDP2021,NA
-4,Sistemas de información geográfica,ID3474,6,Elección libre,IDP2021,NA
-4,Taller de emprendedores,II0422,6,Elección libre,IDP2021,NA
-4,Programación de dispositivos móviles,ID3475,6,Elección libre,IDP2021,NA
-4,Algoritmos bioinspirados,ID3476,6,Elección libre,IDP2021,NA
-4,Tópicos selectos en tecnologías exponenciales,ID3477,6,Elección libre,IDP2021,NA
-4,Taller de herramientas para ciencia de datos,ID3478,6,Elección libre,IDP2021,NA
-4,Movilidad 1,ID3479,6,Elección libre,IDP2021,NA
-4,Movilidad 2,ID3480,6,Elección libre,IDP2021,NA
-4,Movilidad 3,ID3481,6,Elección libre,IDP2021,NA
-4,Movilidad 4,ID3482,6,Elección libre,IDP2021,NA
-4,Movilidad 5,ID3483,6,Elección libre,IDP2021,NA
-4,Movilidad 6,ID3484,6,Elección libre,IDP2021,NA
-4,Internet de las cosas,ID3469,6,Preespecialidad,IDP2021,Innovación en TIC
-4,Diseño multimedia,ID3416,6,Preespecialidad,IDP2021,Innovación en TIC
-4,Diseño de juegos,ID3417,6,Preespecialidad,IDP2021,Innovación en TIC
-4,TIC para la educación,ID3418,6,Preespecialidad,IDP2021,Innovación en TIC
-4,TIC para la salud,ID3419,6,Preespecialidad,IDP2021,Innovación en TIC
-4,Analítica para la inteligencia de negocios,ID3420,6,Preespecialidad,IDP2021,Inteligencia Organizacional y de negocios
-4,Gestión del conocimiento,ID3421,6,Preespecialidad,IDP2021,Inteligencia Organizacional y de negocios
-4,Negocios digitales,ID3422,6,Preespecialidad,IDP2021,Inteligencia Organizacional y de negocios
-4,Sistemas de apoyo para la toma de decisiones,ID3423,6,Preespecialidad,IDP2021,Inteligencia Organizacional y de negocios
-4,Visualización de datos,ID3424,6,Preespecialidad,IDP2021,Inteligencia Organizacional y de negocios
+1,DP0191,Taller de interacción grupal y competencias comunicativas,6,Basica,IDP2021,NA
+1,DP0193,Taller de redacción profesional,6,Basica,IDP2021,NA
+1,DP0194,Desarrollo de habilidades del pensamiento,6,Basica,IDP2021,NA
+1,DP0001,"Propedéutico de habilidades básicas de lectura, estudio e investigación",6,Basica,IDP2021,NA
+1,II0002,Propedéutico de matemáticas para ingeniería,8,Basica,IDP2021,NA
+1,II0106,Cálculo diferencial,8,Basica,IDP2021,NA
+1,ID0104,Cálculo integral,8,Basica,IDP2021,NA
+1,ID0105,Algoritmos y estructuras de datos,8,Basica,IDP2021,NA
+1,ID0106,Matemáticas discretas,8,Basica,IDP2021,NA
+1,ID0107,Diseño de patrones para datos estructurados,8,Basica,IDP2021,NA
+1,ID0108,Física clásica,6,Basica,IDP2021,NA
+1,ID0103,Organización y diseño de computadoras,8,Basica,IDP2021,NA
+1,IT0161,Sistemas operativos POSIX,6,Basica,IDP2021,NA
+2,DP0295,Taller de formación en responsabilidad social y ambiental,6,Basica,IDP2021,NA
+2,DP0396,Identidad y cultura,6,Basica,IDP2021,NA
+2,II0322,Álgebra lineal,6,Basica,IDP2021,NA
+2,ID0207,Probabilidad y estadística,8,Basica,IDP2021,NA
+2,IA0209 ,Ecuaciones diferenciales,8,Basica,IDP2021,NA
+2,IL0204,Estadística analítica,8,Basica,IDP2021,NA
+2,ID0208,Técnicas algorítmicas,6,Basica,IDP2021,NA
+2,IT0210,Programación orientada a objetos,6,Basica,IDP2021,NA
+2,ID0204,Bases de datos,8,Basica,IDP2021,NA
+2,ID0205,Geometría computacional,6,Basica,IDP2021,NA
+2,ID0308,Análisis de grandes volúmenes de datos,8,Basica,IDP2021,NA
+2,ID0265,Programación web,6,Basica,IDP2021,NA
+2,PID0201,Prácticas profesionales I,10,Basica,IDP2021,NA
+3,DP0497,Problemas del mundo contemporáneo,6,Basica,IDP2021,NA
+3,DP0498,Problemas de México,6,Basica,IDP2021,NA
+3,IT0425,Introducción a la inteligencia artificial,6,Basica,IDP2021,NA
+3,ID0307,Ingeniería de software,6,Basica,IDP2021,NA
+3,IT0263,Electrónica analógica,6,Basica,IDP2021,NA
+3,IT0208,Electrónica digital,8,Basica,IDP2021,NA
+3,ID0309,Aprendizaje estadístico,6,Basica,IDP2021,NA
+3,ID0310,Minería de datos,8,Basica,IDP2021,NA
+3,ID3470,Programación de aplicaciones de red,6,Basica,IDP2021,NA
+3,ID0311,Aprendizaje profundo,6,Basica,IDP2021,NA
+3,PID0302,Prácticas profesionales II,10,Basica,IDP2021,NA
+4,DP0499,Seminario de investigación,6,Basica,IDP2021,NA
+4,IT0427,Proyecto terminal,6,Basica,IDP2021,NA
+4,IT0423,Administración de proyectos de desarrollo de software,6,Basica,IDP2021,NA
+4,ID0411,Cómputo de alto desempeño,8,Basica,IDP2021,NA
+4,ID0412,Métodos de desarrollo de software,8,Basica,IDP2021,NA
+4,ID0413,Procesamiento de datos en la nube,6,Basica,IDP2021,NA
+4,ID0414,Seguridad de datos,8,Basica,IDP2021,NA
+4,ID0415,Sistemas distribuidos,6,Basica,IDP2021,NA
+4,PID0403,Prácticas profesionales preespecialidad: Inteligencia organizacional y de negocios,10,Basica,IDP2021,NA
+4,PID0404,Prácticas Profesionales preespecialidad: Innovación en TIC,10,Basica,IDP2021,NA
+1,IT0264,Introducción a los sistemas de información,6,Elección libre,IDP2021,NA
+1,ID0263,Sistemas de planificación de recursos empresariales,6,Elección libre,IDP2021,NA
+1,ID0160,Pensamiento crítico para ingeniería,6,Elección libre,IDP2021,NA
+1,ID0161,Recursos de comunicación para la era digital,6,Elección libre,IDP2021,NA
+2,ID0262,Contabilidad y costos para ingeniería,6,Elección libre,IDP2021,NA
+2,ID0264,Innovación disruptiva,6,Elección libre,IDP2021,NA
+2,IL3422,Liderazgo y equipos de trabajo,6,Elección libre,IDP2021,NA
+2,NI0423,Planeación estratégica,6,Elección libre,IDP2021,NA
+4,ID3466,Gobierno de datos y redes sociales,6,Elección libre,IDP2021,NA
+4,IL0414,Taller de argumentación y técnicas de negociación,6,Elección libre,IDP2021,NA
+4,IT0317,Diseño de interfaces humano-máquina,6,Elección libre,IDP2021,NA
+4,ID3467,Graficación por computadora,6,Elección libre,IDP2021,NA
+4,ID3468,Herramientas para la gestión de grandes volúmenes de datos,6,Elección libre,IDP2021,NA
+4,II0423,Métodos numéricos por computadora,8,Elección libre,IDP2021,NA
+4,ID3471,Realidad virtual,6,Elección libre,IDP2021,NA
+4,IT3472,Principios de automatización y robótica,6,Elección libre,IDP2021,NA
+4,NI3431,Marketing en los negocios electrónicos,6,Elección libre,IDP2021,NA
+4,ID3415,Cómputo ubicuo,6,Elección libre,IDP2021,NA
+4,ID3472,Tópicos selectos en ingeniería de datos,6,Elección libre,IDP2021,NA
+4,ID3473,Tópicos selectos en inteligencia organizacional,6,Elección libre,IDP2021,NA
+4,ID3474,Sistemas de información geográfica,6,Elección libre,IDP2021,NA
+4,II0422,Taller de emprendedores,6,Elección libre,IDP2021,NA
+4,ID3475,Programación de dispositivos móviles,6,Elección libre,IDP2021,NA
+4,ID3476,Algoritmos bioinspirados,6,Elección libre,IDP2021,NA
+4,ID3477,Tópicos selectos en tecnologías exponenciales,6,Elección libre,IDP2021,NA
+4,ID3478,Taller de herramientas para ciencia de datos,6,Elección libre,IDP2021,NA
+4,ID3479,Movilidad 1,6,Elección libre,IDP2021,NA
+4,ID3480,Movilidad 2,6,Elección libre,IDP2021,NA
+4,ID3481,Movilidad 3,6,Elección libre,IDP2021,NA
+4,ID3482,Movilidad 4,6,Elección libre,IDP2021,NA
+4,ID3483,Movilidad 5,6,Elección libre,IDP2021,NA
+4,ID3484,Movilidad 6,6,Elección libre,IDP2021,NA
+4,ID3469,Internet de las cosas,6,Preespecialidad,IDP2021,Innovación en TIC
+4,ID3416,Diseño multimedia,6,Preespecialidad,IDP2021,Innovación en TIC
+4,ID3417,Diseño de juegos,6,Preespecialidad,IDP2021,Innovación en TIC
+4,ID3418,TIC para la educación,6,Preespecialidad,IDP2021,Innovación en TIC
+4,ID3419,TIC para la salud,6,Preespecialidad,IDP2021,Innovación en TIC
+4,ID3420,Analítica para la inteligencia de negocios,6,Preespecialidad,IDP2021,Inteligencia Organizacional y de negocios
+4,ID3421,Gestión del conocimiento,6,Preespecialidad,IDP2021,Inteligencia Organizacional y de negocios
+4,ID3422,Negocios digitales,6,Preespecialidad,IDP2021,Inteligencia Organizacional y de negocios
+4,ID3423,Sistemas de apoyo para la toma de decisiones,6,Preespecialidad,IDP2021,Inteligencia Organizacional y de negocios
+4,ID3424,Visualización de datos,6,Preespecialidad,IDP2021,Inteligencia Organizacional y de negocios
 1,IT0101,Algoritmos y estructura de datos,6,Basica,IDP2016,NA
 1,II0106,Cálculo diferencial,8,Basica,IDP2016,NA
 1,II0209,Cálculo integral,6,Basica,IDP2016,NA
